@@ -161,6 +161,9 @@ input{
 }
 
 input[type=submit]{
+  font-family: 'Amatic SC', cursive;
+  font-size: 24px;
+  font-weight: bold;
   border-color: #cccccc;
   background: #4aaaa5;
   color: white;
