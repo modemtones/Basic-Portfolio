@@ -15,16 +15,30 @@ h2{
   color: #4aaaa5;
 }
 
+#h1_white{
+  color: white;
+}
+
+a{
+  text-decoration: none;
+  color: #777777;
+}
+
+hr{
+  border-width: 3px;
+}
+
 .wrapper{
-  border-style: solid;
-  border-width: 2px;
-  border-color: green;
+  /*border-style: solid;*/
+  /*border-width: 2px;*/
+  /*border-color: green;*/
   width: 960px;
-  margin: 0 auto;
+  margin: 20px auto;
 }
 
 header{
-  border-style: solid;
+  /*border-style: solid;*/
+  border-bottom: solid;
   border-width: 5px;
   border-color: #cccccc;
   padding-bottom: 50px;
@@ -33,19 +47,22 @@ header{
 }
 
 #name{
-  border-style: solid;
-  border-width: 2px;
-  border-color: red;
-  /*background: #4aaaa5;*/
+  /*border-style: solid;*/
+  /*border-width: 2px;*/
+  /*border-color: red;*/
+  background: #4aaaa5;
   color: black;
   float: left;
+  width: 400px;
+  text-align: center;
+  padding-top: 6px;
   /*margin-top: 20px;*/
 }
 
 #nav{
-  border-style: solid;
-  border-width: 2px;
-  border-color: orange;
+  /*border-style: solid;*/
+  /*border-width: 2px;*/
+  /*border-color: orange;*/
   float: right;
   padding-top: 15px;
   padding-right: 30px;
@@ -53,34 +70,37 @@ header{
 
 #content{
   border-style: solid;
-  border-width: 2px;
-  border-color: purple;
+  border-width: 1px;
+  border-color: #777777;
   width: 650px;
   float: left;
   margin-top: 20px;
   padding: 20px 5px 20px 5px;
+  background: #ffffff;
 }
 
 #aside{
   border-style: solid;
-  border-width: 2px;
-  border-color: yellow;
+  border-width: 1px;
+  border-color: #777777;
   width: 270px;
   float: right;
   padding: 20px 5px 20px 5px;
   margin-top: 20px;
+  background: #ffffff;
   text-align: center;
 }
 
 #footer{
-  border-style: solid;
-  border-width: 2px;
-  border-color: blue;
+  border-top: solid;
+  border-width: 5px;
+  border-color: #4aaaa5;
   float: left;
-  width: 100%;
+  width: 95%;
   padding: 20px;
   margin-top: 20px;
   margin-left: 0px;
   text-align: center;
   background-color: #666666;
+  color: white;
 }
