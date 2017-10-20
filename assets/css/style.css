@@ -160,6 +160,15 @@ input{
   height: 150px;
 }
 
+input[type=submit]{
+  border-color: #cccccc;
+  background: #4aaaa5;
+  color: white;
+  width: 80px;
+  padding: 8px 16px;
+  cursor: pointer;
+}
+
 .wrapper{
   /*border-style: solid;*/
   /*border-width: 2px;*/
