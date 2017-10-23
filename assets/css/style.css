@@ -51,7 +51,7 @@ hr{
   width: 300px;
   background-image: url("../images/1.jpg");
   float: left;
-  margin: 10px 0;
+  margin: 20px 10px 0px 10px;
 }
 
 #project1 p{
@@ -70,8 +70,8 @@ hr{
   height: 225px;
   width: 300px;
   background-image: url("../images/2.jpg");
-  float: right;
-  margin: 10px 0;
+  float: left;
+  margin: 20px 10px 0px 10px;
 }
 
 #project2 p{
@@ -91,7 +91,7 @@ hr{
   width: 300px;
   background-image: url("../images/3.jpg");
   float: left;
-  margin: 10px 0;
+  margin: 20px 10px 0px 10px;
 }
 
 #project3 p{
@@ -110,8 +110,8 @@ hr{
   height: 225px;
   width: 300px;
   background-image: url("../images/4.jpg");
-  float: right;
-  margin: 10px 0;
+  float: left;
+  margin: 20px 10px 0px 10px;
 }
 
 #project4 p{
@@ -131,7 +131,7 @@ hr{
   width: 300px;
   background-image: url("../images/5.jpg");
   float: left;
-  margin: 10px 0;
+  margin: 20px 10px 0px 10px;
 }
 
 #project5 p{
